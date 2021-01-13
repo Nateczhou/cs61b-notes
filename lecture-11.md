@@ -10,3 +10,9 @@ iterator, iterable
 
 toString method: string rebuild is very slow, use stringBuilder 
 
+equals\(\) 
+
+"==" compares the bits
+
+getClass\(\) method
+

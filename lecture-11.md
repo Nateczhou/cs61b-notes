@@ -16,3 +16,13 @@ equals\(\)
 
 getClass\(\) method
 
+
+
+## How to do toString\(\) even a better way!
+
+String.join\(",", listOfItems\);
+
+## How to build Set.of\(\) yourself
+
+public static &lt;T&gt; ArraySet&lt;T&gt; of\(T... stuff\)
+

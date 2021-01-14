@@ -7,5 +7,14 @@ Binary min-heap: Binary tree that is **complete** and obeys **min-heap property*
 
 
 
+Tree Representation in Java
+
+1. naked TreeNode class\(childrenleft, childrenmid, childrenright\)
+2. naked TreeNode class\(children\[\] contains left, right, mid\)
+3. sibling Tree
+4. store in array!!
+
+
+
 
 

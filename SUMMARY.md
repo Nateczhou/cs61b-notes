@@ -8,4 +8,5 @@
 * [Lecture 14: Disjoint Sets](lecture-14-disjoint-sets.md)
 * [Lecture 15: ADT](lecture-15-adt.md)
 * [Lecture 11:](lecture-11.md)
+* [Lecture 21: Heaps and PQs](lecture-21-heaps-and-pqs.md)
 
